@@ -1,6 +1,6 @@
 # fastchat
 
-A new Flutter application.
+A new Flutter chatting cross platform application.
 
 ## Getting Started
 
