@@ -1,6 +1,8 @@
 # fastchat
 
-A Cross Platform Chatting Application with extra privacy features
+A new Flutter chatting cross platform application.
+
+
 
 ## Getting Started
 
